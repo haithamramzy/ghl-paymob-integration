@@ -1,2 +1,3 @@
-# ghl-paymob-integration
-Private app for GoHighLevel + Paymob Egypt integration
+# GHL + Paymob Integration
+
+This app connects GoHighLevel subaccounts with individual Paymob accounts.
